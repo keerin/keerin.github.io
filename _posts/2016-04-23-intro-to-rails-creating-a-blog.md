@@ -2,7 +2,7 @@
 layout: post
 title:  "Intro to Rails - Creating a very basic blog"
 date:   2016-04-23 2016  18:43:00 +0100
-categories: "Learning Rails"
+categories: "learning-rails"
 author: "Kieran"
 ---
 [Mackenzie Child](https://mackenziechild.me/){:target="_blank"}

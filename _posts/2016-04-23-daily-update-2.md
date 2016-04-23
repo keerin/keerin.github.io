@@ -2,7 +2,7 @@
 layout: post
 title:  "Daily Update #2"
 date:   2016-04-23 2016  15:00:00 +0100
-categories: "Learning Rails"
+categories: "learning-rails"
 author: "Kieran"
 ---
 ## Blog to track progress
@@ -16,7 +16,7 @@ Still not done anything so far on these. I get excited by new things too easily,
 ## Rails
 
 This morning I've gone through the MacKenzie Child [Intro to Rails](https://www.youtube.com/watch?v=2gUbteh54RM&list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA){:target="_blank"} videos, just to try out Rails.
-(_Edit: I've written my notes up [here](/2016/04/23/intro-to-rails-creating-a-blog/)_)
+(_Edit: I've written my notes up [here](/learning-rails/2016/04/23/intro-to-rails-creating-a-blog/)_)
 
 I've put the code from this video series on [my GitHub](https://github.com/keerin/mackenzie-blog){:target="_blank"}. It is very ugly as there is zero design behind it, but it helped me understand what Rails generates, and how to work with it on a basic level.
 

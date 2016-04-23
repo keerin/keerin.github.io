@@ -2,7 +2,7 @@
 layout: post
 title:  "Things that have been helpful coding Ruby using command line"
 date:   2016-04-20 08:50:00 +0100
-categories: "Personal Development"
+categories: "useful-tools"
 author: "Kieran"
 ---
 1\. Github for Noobs
