@@ -7,7 +7,7 @@ author: "Kieran"
 ---
 ## Blog to track progress
 
-You are looking at it! Not messing about with themes and things right now. Let's go for the default theme, and improve when the more important thigns have been sorted.
+You are looking at it! Not messing about with themes and things right now. Let's go for the default theme, and improve when the more important things have been sorted.
 
 ## Wrapping up existing projects
 
@@ -16,8 +16,9 @@ Still not done anything so far on these. I get excited by new things too easily,
 ## Rails
 
 This morning I've gone through the MacKenzie Child [Intro to Rails](https://www.youtube.com/watch?v=2gUbteh54RM&list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA){:target="_blank"} videos, just to try out Rails.
+(_Edit: I've written my notes up [here](/2016/04/23/intro-to-rails-creating-a-blog/)_)
 
-I've put the code from this video series on [my GitHub](https://github.com/keerin/mackenzie-blog){:target="_blank"}. It is very ugly as there is zero desdign behind it, but it helped me understand what Rails generates, and how to work with it on a basic level.
+I've put the code from this video series on [my GitHub](https://github.com/keerin/mackenzie-blog){:target="_blank"}. It is very ugly as there is zero design behind it, but it helped me understand what Rails generates, and how to work with it on a basic level.
 
 ## Miscellaneous
 
