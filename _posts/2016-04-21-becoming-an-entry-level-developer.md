@@ -2,7 +2,7 @@
 layout: post
 title:  "Becoming an entry-level developer"
 date:   2016-04-21 2016  22:59:57 +0100
-categories: "Learning Ruby"
+categories: "Learning Rails"
 author: "Kieran"
 ---
 I've spent some time validating my plan to become an entry-level back end developer with two experienced developers at work, Craig and Martins.They both agreed the path I plan to follow makes perfect sense.

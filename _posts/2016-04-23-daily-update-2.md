@@ -2,7 +2,7 @@
 layout: post
 title:  "Daily Update #2"
 date:   2016-04-23 2016  15:00:00 +0100
-categories: "Learning Ruby"
+categories: "Learning Rails"
 author: "Kieran"
 ---
 ## Blog to track progress
