@@ -14,7 +14,7 @@ To remedy this, I started CS50x online, and completed three weeks of lectures an
 
 Finally, I moved back into Ruby, and I've found this to be the easiest language to read and understand, so just jumped in with both feet.
 
-## Accountables
+## [Accountables](https://www.github.com/keerin/accountables){:target="_blank"}
 
 This is the first thing I created. It's an accountability tracker. The end-goal is to allow users to sign up and track progress on a task or goal, as well as set up a partner who is doing the same. The key feature will be that users with a partner will get an email to let them know when their partner has completed their task for the day, and will also get an email if their partner does not complete teir task for a day.
 
@@ -22,7 +22,7 @@ I originally started this so that members of the Seanwes community could keep ea
 
 The front-end here is very rudimental, and quite ugly. I'll probably look for help to make this nicer when it is feature complete.
 
-## Pomodoro
+## [Pomodoro](https://www.github.com/keerin/pomodoro){:target="_blank"}
 
 As mentioned before, I'm terrible at design, and front-end development. I really like playing with the GNU/Linux and the command line, so I figured, why not learn how to make command line apps with Ruby? The entire UI is text!
 

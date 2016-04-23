@@ -9,9 +9,9 @@ I've spent some time validating my plan to become an entry-level back end develo
 
 To be clear, this is my plan:
 
-1. Finish my [web app](www.github.com/keerin/accountables){:target="_blank"}
+1. Finish my [web app](https://www.github.com/keerin/accountables){:target="_blank"}
 
-2. Ship my [command line app](www.github.com/keerin/pomodoro){:target="_blank"} as a RubyGem
+2. Ship my [command line app](https://www.github.com/keerin/pomodoro){:target="_blank"} as a RubyGem
 
 3. Build a Rails blog [MacKenzie Child](https://www.youtube.com/watch?v=2gUbteh54RM&list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA){:target="_blank"}
 
