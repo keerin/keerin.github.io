@@ -5,11 +5,11 @@ date:   2016-04-26 2016  17:49:00 +0100
 categories: "learning-rails"
 author: "Kieran"
 ---
-Today I've read through [this link](www.link.com){:target="_blank"}, which shows how to use Devise. I noteiced that Devise uses a method called "is\_authorised?", which you can use to create login and access logic. Very similar to how I've used Warden in Sinatra, so should not be too bad at all.
+Today I've read through [this link](https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication){:target="_blank"}, which shows how to use Devise. I noteiced that Devise uses a method called "is\_authorised?", which you can use to create login and access logic. Very similar to how I've used Warden in Sinatra, so should not be too bad at all.
 
 I previously wrote that I wanted to sit and create the views needed for Devise, but I also seen that I can just run to following to get this done:
 
-        rails generate devise:views
+        rails generate devise:views MODEL_NAME
 
 This makes things a lot easier, and I can just focus on hiding the create, update and destroy actions behind an admin user. This means that I should be finished this tonight.
 
