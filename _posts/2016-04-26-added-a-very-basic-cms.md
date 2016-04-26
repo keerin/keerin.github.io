@@ -25,7 +25,7 @@ Next, I ran the model generator and the views generator:
           $ rails generate devise admin
           $ rails generate devise:views admin
 
-I want to grant logged in users full CRUD access, but everyone else should only to have only read access. To do this, I added the below to the posts controller:
+I want to grant logged in users full CRUD access, but everyone else should only have read access. To do this, I added the below to the posts controller:
 
           before_filter :authenticate_admin!, except: [ :index, :show ]
 {: .language-ruby}
