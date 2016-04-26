@@ -30,7 +30,7 @@ I want to grant logged in users full CRUD access, but everyone else should only 
           before_filter :authenticate_admin!, except: [ :index, :show ]
 {: .language-ruby}
 
-In order to only show the create, update and destroy links in the show template, I sinply had to add a little bit of logic as such:
+In order to only show the create, update and destroy links in the show template, I simply had to add a little bit of logic as such:
 
           <% if admin_signed_in? %>
             <%= link_to "Edit post", edit_post_path(@post) %>
@@ -46,4 +46,4 @@ And finally, in order to allow the admin user to log out, I added the following 
           <% end %>
 {: .language-erb}
 
-This turned out to be a lot easier than I expected. At least for my very simple use-case, this is super simple. The official [README](http://devise.plataformatec.com.br/){:target="_blank"} and [How To](https://github.com/plataformatec/devise/wiki/How-Tos){:target="_blank"} pages are also very easy to read and helpful.
+This turned out to be a lot easier than I expected. At least for my very simple use-case, this is super easy. The official [README](http://devise.plataformatec.com.br/){:target="_blank"} and [How To](https://github.com/plataformatec/devise/wiki/How-Tos){:target="_blank"} pages are also very easy to read and helpful.
