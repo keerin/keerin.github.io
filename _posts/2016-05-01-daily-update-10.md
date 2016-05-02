@@ -11,4 +11,4 @@ After that, I'll fix my manage page so that it stands alone instead of sitting i
 
 Then I'll put what I've learned in this course to good use and rebuild my blog from scratch, test first.
 
-I really like the way things are taught in this CodeSchool course. A colleague sai it would be wrothwhile supplementing my learning with the Rails for Zombies course as well. I'm already paying for it so I might as well!
+I really like the way things are taught in this CodeSchool course. A colleague said it would be worthwhile supplementing my learning with the Rails for Zombies course as well. I'm already paying for it so I might as well!
