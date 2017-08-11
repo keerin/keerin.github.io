@@ -22,4 +22,4 @@ The first level covered some stuff I haven't done yet which is a great sign for 
 * Database Setup - NEW
 * Working in the Console
 
-Loking forward to getting stuck into level two tomorrow. No reason I can't do a level a day for the week. There are five levels.
+Looking forward to getting stuck into level two tomorrow. No reason I can't do a level a day for the week. There are five levels.
