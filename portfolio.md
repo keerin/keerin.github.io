@@ -30,6 +30,14 @@ I bought a book on building command-line apps with Ruby and just started a chapt
 
 The whole thing took me about two hours to get from idea to deploying an MVP on GitHub. As soon as it was deployed, I opened a few issues to represent my to do list. I think the reason it took as long as it did was because I was working out how to get the app to emit a noise when the countdown reached zero. Turns out my laptop simply does not emit system noises, so I just used a very simple media player and evoked a shell command to play a small mp3 using backticks.
 
+## [Havamal](https://havamal.herokuapp.com){:target="_blank"}
+
+The Havamal is an ancient Norse Eddic poem. The 'philosophy of the Vikings' shows another side to stereotypical Norsemen raping and pillaging barbarians that we are used to seeing.
+
+I picked up a copy of this when I went to Oslo with a friend at the start of last year. I really like reading it and wanted to set something up that would send me a verse from this book each day. Fortunately, the text is in the public domain so I found a less-flowery translation and set this up.
+
+At the moment, all this does is show a random verse on every page refresh. I'll be working on this over time to add the required functionality. This isn't going to be very difficult work, it's stuff I've not done before so may take me some time to get right.
+
 ## Next?
 
 Check out [this page](http://keerin.github.io/learning-rails/2017/08/11/17-small-project-ideas/){:target="_blank"} to see the ideas I have for small projects in the future.
