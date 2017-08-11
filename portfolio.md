@@ -32,9 +32,4 @@ The whole thing took me about two hours to get from idea to deploying an MVP on 
 
 ## Next?
 
-I have the following ideas I want to create. These are all really just projects to help me learn the techniques I would use in a web development position. My overall goes isn't really to get a programing job, but to have the skills and knowledge to know I could.
-
- * Find people near you who are bored (Twitter API + Sinatra)
- * Personal dashboard using multiple APIs (to be used on a Raspberry Pi)
- * Ruby on Rails blog
- * Command line to do app that syncs to Google Drive or Dropbox
+Check out [this page](http://keerin.github.io/learning-rails/2017/08/11/17-small-project-ideas/){:target="_blank"} to see the ideas I have for small projects in the future.
