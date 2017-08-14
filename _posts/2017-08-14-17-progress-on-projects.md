@@ -5,7 +5,7 @@ date:   2017-08-11 2017 18:42:00 +0100
 categories: "learning-rails"
 author: "Kieran"
 ---
-I've been off work for the last few days so I've managed to fix both [Accountables](https://accountables.herokuapp.com){:target="_blank"} and [Havamal.](https://havamal.herokuapp.com/){:target="_blank"}. Now they both work and are live as long as the free Heroku dynos are spinning.
+I've been off work for the last few days so I've managed to fix both [Accountables](https://accountables.herokuapp.com){:target="_blank"} and [Havamal](https://havamal.herokuapp.com/){:target="_blank"}. Now they both work and are live as long as the free Heroku dynos are spinning.
 
 A few weeks ago, I decided to make a habit of finishing things. Any goals I have for accomplishing things will never be met if I don't finish anything.
 
@@ -33,13 +33,13 @@ Working out how to fix the stuff I already made was a start to this. I wanted id
 
 From this list, I picked #1 to do first. Partially because it's the easiest but mostly because the idea of this existing really made me laugh.
 
-I planned it out on paper and then recorded my screen as I created it live. You can see the [video here](youtu.be/Xso-YdGLwhl){:target="_blank"}, the [Github repo here](https://github.com/keerin/symptoms){:target="_blank"} and the live site [here](https://checkyoursymptoms.herokuapp.com/){:target="_blank"}.
+I planned it out on paper and then recorded my screen as I created it live. You can see the [video here](https://www.youtube.com/watch?v=Xso-YdGLwhl){:target="_blank"}, the [Github repo here](https://github.com/keerin/symptoms){:target="_blank"} and the live site [here](https://checkyoursymptoms.herokuapp.com/){:target="_blank"}.
 
 I've also tweeted it out to the guy who tweeted the wish for this in the first place. Again, because the idea of someone tweeting something silly out in February and getting exactly what you wished for from a stranger in August just makes me laugh every time I think about it.
 
 The next one I wanted to tackle was #3. I chose this as the next thing to work on because it sounds doable, as long as it was a website where links to public cctv camera feeds were submitted by users and the links are then displayed.
 
-So far I have set up the front and back end skeleton so that requests are routed and views are rendered correctly, there is a passable front-end, and the submission form works. I've called it City Cam Repo and you can see it [here].(https://citycamrepo.herokuapp.com/){:target="_blank"}
+So far I have set up the front and back end skeleton so that requests are routed and views are rendered correctly, there is a passable front-end, and the submission form works. I've called it City Cam Repo and you can see it [here](https://citycamrepo.herokuapp.com/){:target="_blank"}.
 
 Next, I need to work out how to get each record from the database into the table on the index page. This has proven more difficult that I expected, but I also think I'm overthinking it. I'm gonna leave this for a few days and come back to it at the weekend.
 
@@ -47,7 +47,7 @@ In the spirit of actually finishing things, I can always deploy as is and manual
 
 The list of things to do on the City Cam Repo project are:
 
-1. Show atual data from the db in each table row
+1. Show actual data from the db in each table row
 2. Pagination
 3. Report dead link button
 
