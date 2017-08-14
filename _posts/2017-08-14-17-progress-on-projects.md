@@ -5,7 +5,7 @@ date:   2017-08-11 2017 18:42:00 +0100
 categories: "learning-rails"
 author: "Kieran"
 ---
-I've been off work for the last few days so I've managed to fix both [Accountables](https://accountables.herokuapp.com){:target="_blank"} and [Havamal].(https://havamal.herokuapp.com/){:target="_blank"}. Now they both work and are live as long as the free Heroku dynos are spinning.
+I've been off work for the last few days so I've managed to fix both [Accountables](https://accountables.herokuapp.com){:target="_blank"} and [Havamal.](https://havamal.herokuapp.com/){:target="_blank"}. Now they both work and are live as long as the free Heroku dynos are spinning.
 
 A few weeks ago, I decided to make a habit of finishing things. Any goals I have for accomplishing things will never be met if I don't finish anything.
 
