@@ -38,6 +38,12 @@ I picked up a copy of this when I went to Oslo with a friend at the start of las
 
 At the moment, all this does is show a random verse on every page refresh. I'll be working on this over time to add the required functionality. This isn't going to be very difficult work, it's stuff I've not done before so may take me some time to get right.
 
+## [City Cam Repo](https://citycamrepo.herokuapp.com/){:target="_blank"}
+
+I was looking for ideas for small projects I could start and complete in a few days. I searched Twitter for the phrase "I wish there was a website that". One of the results was "I wish there was a website where you can watch building and traffic cameras in major cities", so I built it.
+
+At the time of writing, this is just static. It does not connect to the database. As well as having the table update with info from the database, there are a few other things I want to do here, such as a "report dead link" feature. I'll update here once this has been done.
+
 ## Next?
 
 Check out [this page](http://keerin.github.io/learning-rails/2017/08/11/17-small-project-ideas/){:target="_blank"} to see the ideas I have for small projects in the future.
