@@ -42,7 +42,7 @@ At the moment, all this does is show a random verse on every page refresh. I'll 
 
 I was looking for ideas for small projects I could start and complete in a few days. I searched Twitter for the phrase "I wish there was a website that". One of the results was "I wish there was a website where you can watch building and traffic cameras in major cities", so I built it.
 
-At the time of writing, this is just static. It does not connect to the database. As well as having the table update with info from the database, there are a few other things I want to do here, such as a "report dead link" feature. I'll update here once this has been done.
+You can read [this blog post](/making-things/2017/08/15/17-city-cam-repo-is-live/) to find out how this was built.
 
 ## Next?
 
