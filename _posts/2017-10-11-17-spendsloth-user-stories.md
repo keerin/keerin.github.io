@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spendsloth = User Stories"
+title:  "Spendsloth - User Stories"
 date:   2017-10-11 2017 19:15:00 +0100
 categories: "making-things"
 author: "Kieran"
