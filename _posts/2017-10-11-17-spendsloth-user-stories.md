@@ -7,7 +7,7 @@ author: "Kieran"
 ---
 I've always been terrible at keeping track of my money. For too many months I get to the end only to have literally not even a penny. All of my bills get paid of course, but maybe not on time...
 
-I decided to build a tool that would let me add all my outgoings, then deduct these from my incomings and not only show me what I have left which was safe to spend, but also email me this so I had a reminder on the first of every month.
+I decided to build a tool that would let me add all my outgoings, then deduct these from my incomings and show me what I have left which was safe to spend.
 
 This post will detail the user stories I've written for what I have called Spendsloth. The user stories details the minimum fuctionality I believe will be required for any kind of release - an "MVP" so to speak.
 
@@ -19,7 +19,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 ## Sign up and login
 
-### MM001
+### SS001
 
 * As a visitor
 * I can sign up using my email address and a password
@@ -27,7 +27,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 4hrs)
 
-### MM002
+### SS002
 
 * As a pre-activated user
 * I can click on a link in an activation email
@@ -35,7 +35,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 3hrs)
 
-### MM003
+### SS003
 
 * As a logged out user
 * I can log in
@@ -43,7 +43,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 2hrs)
 
-### MM004
+### SS004
 
 * As a logged in user
 * I can log out
@@ -51,7 +51,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 1hr)
 
-### MM005
+### SS005
 
 * As a logged out user
 * I can use a forgotten password facility
@@ -59,7 +59,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 4hrs)
 
-### MM006
+### SS006
 
 * As a user
 * I can visit an account settings page
@@ -73,14 +73,14 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 ## Basic functionality
 
-### MM007
+### SS007
 
 * As a logged in user
 * I can see the money left when all bills are subtracted from my monthly income
 
 (Estimate: 2hrs)
 
-### MM008
+### SS008
 
 * As a logged in user
 * I can view all bills added
@@ -89,7 +89,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 2hrs)
 
-### MM009
+### SS009
 
 * As a logged in user
 * Hovering over each bill will present an option to edit
@@ -100,7 +100,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 2hrs)
 
-### MM010
+### SS010
 
 * As a logged in user
 * I can add a new bill name
@@ -112,7 +112,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 ## Advanced functionality
 
-### MM011
+### SS011
 
 * As a logged in user
 * When adding or editing bills
@@ -121,7 +121,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 3hrs)
 
-### MM012
+### SS012
 
 * As a logged in user
 * I can see all tags
@@ -129,7 +129,7 @@ This looks like it will take two weeks to go from git init to MVP (core function
 
 (Estimate: 2hrs)
 
-### MM013
+### SS013
 
 * As a logged in user
 * I can see a bar chart of my spending
