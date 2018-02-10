@@ -11,7 +11,7 @@ email: thekieran@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   By day, a digital project manager with one of the fastest growing web agencies in the country. By night, a determined autodidact learning how GNU/Linux, programming, and the web works with Ruby, Sinatra, books and videos.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://keerin.github.io" # the base hostname & protocol for your site
 twitter_username: thekieran
 github_username:  keerin
 
